@@ -36,24 +36,24 @@ html, body { height: 100% }
 }
 
 body {
-	background-color: #53f;
+	background-color: #ebebd7;
 	font-family: "TiemposText",Georgia,Times,serif;
 	font-size: 18px;
 	line-height: 1.8;
-	color: #FFFFFF;
+	color: #000000;
 	-webkit-font-smoothing:antialiased;
 	text-rendering: optimizeLegibility;
 }
 
 a {
-	color: #FFFFFF;
+	color: #000000;
 	text-decoration: none;
 	padding-bottom: 3px;
-	border-bottom: 1px solid #FFFFFF;
+	border-bottom: 1px solid #000000;
 }
 
 a:hover {
-	color: #FFFFFF;
+	color: #000000;
 	text-decoration: none;
 	border-bottom: none;
 }
